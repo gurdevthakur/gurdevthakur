@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.guru.myfirebase.EditPersonActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editTextFirstName"
+        android:hint="First Name"
+        style="@style/editText"/>
+
+    <EditText
+        android:id="@+id/editTextLastName"
+        android:hint="Last Name Name"
+        style="@style/editText"/>
+
+    <EditText
+        android:id="@+id/editTextAge"
+        android:hint="Age"
+        style="@style/editText"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_marginTop="50dp"
+        style="@style/defaultStyle"
+        android:text="Save"/>
+    </LinearLayout>
+
+</LinearLayout>
