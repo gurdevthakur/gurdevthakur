@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sanjay/AndroidStudioProjects/LoginWIthSQLlite/app/src/main/res/drawable/signupbuttonbckg.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/Sanjay/AndroidStudioProjects/LoginWIthSQLlite/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Sanjay/AndroidStudioProjects/LoginWIthSQLlite/app/src/main/res/layout/initialsetupmodulefragment.xml" value="0.1" />
+        <entry key="..\:/Users/Sanjay/AndroidStudioProjects/LoginWIthSQLlite/app/src/main/res/layout/loginfragment.xml" value="0.1" />
+        <entry key="..\:/Users/Sanjay/AndroidStudioProjects/LoginWIthSQLlite/app/src/main/res/layout/myfragmentcontainer.xml" value="0.1" />
+        <entry key="..\:/Users/Sanjay/AndroidStudioProjects/LoginWIthSQLlite/app/src/main/res/layout/signupmodulefragment.xml" value="0.18" />
+        <entry key="..\:/Users/Sanjay/AndroidStudioProjects/LoginWIthSQLlite/app/src/main/res/menu/logout_action.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
