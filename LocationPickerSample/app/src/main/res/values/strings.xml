@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationPickerModule</string>
+    <string name="show_location_picker">Show Location Picker</string>
+    <string name="api_key">AIzaSyDipPP_Z1EwmeOqGoTyDO4s8hmk2-AVXjw</string>
+</resources>
