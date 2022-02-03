@@ -1,6 +1,3 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-LocationPicker-brightgreen.svg?style=plastic)](https://android-arsenal.com/details/1/7761)
-![API +16](https://img.shields.io/badge/API-+16-brightgreen.svg)
-
 <h1>Introduction</h1>
 LocationPicker is a simple and easy to use library that can be integrated into your project.
 The project is build with androidx.
@@ -166,25 +163,7 @@ To open the LocationPicker with pre-selected location, just add extras to the In
 ```
 <br/><br/>
 
-<h1>Bugs and Feedback :thumbsup: :thumbsdown:</h1>
-For bugs, questions and discussions please use the Github Issues.
-If you like this library please put a star :star: to it
-<br/><br/>
-
-<h1>Credits</h1>
-> The library is referenced from https://github.com/Intuz-production/AddressPicker-Android
-<br/>
-
 <h1>Connect with me!</h1>
-
-<a href="https://twitter.com/Shivpujan120899">
-<img src="https://img.shields.io/badge/Twitter-@Shivpujan120899-blue.svg" alt="TwitterLink"><br>
-<a href="https://www.linkedin.com/in/shivpujan-yadav-b98485142">
-<img src="https://img.shields.io/badge/Linked_In-Shivpujan_Yadav-blue.svg" alt="LinkedInLink">
-<br />
 <br />	
-<a href="https://www.linkedin.com/in/asad-ali-choudhry">
-<img src="https://img.shields.io/badge/Linked_In-Asad_Ali_Choudhry-blue.svg" alt="LinkedInLink"><br>
-<a href="https://handyopinion.com/author/asad175/">
-<img src="https://img.shields.io/badge/Website-Asad_Ali_Choudhry-blue.svg" alt="Website Link">
+<a href="https://www.linkedin.com/in/gurdev-thakur-3274591a">
 <br/><br/>
