@@ -4,10 +4,7 @@ The project is build with androidx.
 All libraries and APIs used in the project are up-to-date as of now
 You can get latitude,longitude and full address for selected location
 Please follow below instruction to know how to use it in your project
-<br/>
-<img src="Screenshots/screen.gif">
 
-<br/>
 <h1>Features</h1>
 
 - Search any location using Google Places Library<br/>
@@ -16,13 +13,6 @@ Please follow below instruction to know how to use it in your project
 - Get location in a bundle with city , pincode , state etc <br/>
 - Open the picked location on Google Maps<br/>
 - Search the Direction to the picked location from current location (using Google Maps)<br/> 
-
-<div style="float:left">
-<img src="Screenshots/Screen1.png" width="180">
-<img src="Screenshots/Screen2.png" width="180">
-<img src="Screenshots/screen3.png" width="200">
-<img src="Screenshots/screen4.png" width="200">
-</div>
 
 <br/><br/>
 
@@ -163,7 +153,3 @@ To open the LocationPicker with pre-selected location, just add extras to the In
 ```
 <br/><br/>
 
-<h1>Connect with me!</h1>
-<br />	
-<a href="https://www.linkedin.com/in/gurdev-thakur-3274591a">
-<br/><br/>
