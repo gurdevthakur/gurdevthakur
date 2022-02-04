@@ -17,7 +17,7 @@ import com.google.firebase.iid.InstanceIdResult;
 import static com.example.fcm.R.id.txt;
 
 public class MainActivity extends AppCompatActivity {
-	private static final String AUTH_KEY = "AAAABiL40zc:APA91bER_TOxycIiQPmA1dmz5uTaZxnd2FAmst6dZJgHFlTkqhVinMzpwvNNDjDfas2DyDFcxMouRN5spMt-B8AhPjmPAIH2eIlFTECmi732j-H-lZdVjBzAvtU47HlEy_e5zCo9f8q6";
+	private static final String AUTH_KEY = "Enter API KEY HERE";
 	private TextView mTextView;
 	private String token;
 
